@@ -64,7 +64,8 @@ else:
 
 if __name__ == "__main__":
     name = "ChatGPT"
-    print_star_pattern(name)      
+    print_star_pattern(name)  
+        
     
     
     def add_student(database):
